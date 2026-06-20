@@ -1,6 +1,6 @@
 ## Research Interests
 
-1. CO2 reduction and pulsed electrochemistry
+1. CO<sub>2</sub> reduction and pulsed electrochemistry
 2. Catalyst activity, selectivity, and degradation
 3. Operando X-ray spectroscopy and electrochemical characterization
 4. Bayesian optimization, active learning, and experimental automation
@@ -8,7 +8,7 @@
 
 ## Publications
 
-**Pulsed Electrolysis Promotes Catalyst Activity in Dilute CO2 Streams**  
+**Pulsed Electrolysis Promotes Catalyst Activity in Dilute CO<sub>2</sub> Streams**  
 ACS Energy Letters, 2026
 
 **Ranking economic and environmental performance of feedstocks used in bio-based production systems**  
@@ -17,8 +17,8 @@ Current Research in Biotechnology, 2025
 **Reimagining Unit Operations Labs: NYU's Multi-Tiered Experiential Learning Platform**  
 AIChE Annual Meeting, 2025
 
-**Metabolic Engineering Conference**  
-2024
+<!-- **Metabolic Engineering Conference**  
+2024 -->
 
 ## Patent
 
@@ -40,7 +40,7 @@ Jan. 2026 - Present
 Ph.D. Research Intern, New Jersey, USA  
 June 2025 - Aug. 2025
 
-- Designed and executed CO2 electroreduction experiments under industrially relevant conditions above 300 mA cm^-2.
+- Designed and executed CO<sub>2</sub> electroreduction experiments under industrially relevant conditions above 300 mA cm^-2.
 - Spray-coated composite electrodes using Au, Ni, Cu, Ag, and Co catalyst inks.
 - Screened catalyst compositions and operating conditions across temperature, pressure, flow rate, solvent, electrolyte, and ionomer variables.
 - Characterized electrode behavior through electrochemical impedance spectroscopy, gas chromatography, and SEM/EDS.
@@ -63,13 +63,13 @@ May 2022 - June 2022
 
 ## Select Projects
 
-**Automated optimization of dilute CO2 electrolyzers using pulsing and active learning algorithms**
+**Automated optimization of dilute CO<sub>2</sub> electrolyzers using pulsing and active learning algorithms**
 
-- Implemented pulsing protocols for dilute industrial CO2 streams, improving product selectivity by 207% and energy productivity by 241% relative to steady-state operation.
-- Built an automated MEA CO2 electrolyzer platform integrating LabVIEW, MATLAB, and ML algorithms for real-time optimization.
-- Developed adaptive learning methods for Cu-based multiproduct CO2 electrolyzers under dynamic, renewable-relevant power profiles.
+- Implemented pulsing protocols for dilute industrial CO<sub>2</sub> streams, improving product selectivity by 207% and energy productivity by 241% relative to steady-state operation.
+- Built an automated MEA CO<sub>2</sub> electrolyzer platform integrating LabVIEW, MATLAB, and ML algorithms for real-time optimization.
+- Developed adaptive learning methods for Cu-based multiproduct CO<sub>2</sub> electrolyzers under dynamic, renewable-relevant power profiles.
 
-**Operando Cu K-edge XAFS of pulsed CO2 electroreduction in a high-current MEA**
+**Operando Cu K-edge XAFS of pulsed CO<sub>2</sub> electroreduction in a high-current MEA**
 
 - Conducted high-throughput in-situ synchrotron XAS fluorescence experiments to study catalyst oxidation state and coordination environment.
 - Fabricated an MEA cell compatible with operando X-ray measurements at current densities above 300 mA cm^-2 and C2+ selectivity above 50%.
@@ -115,6 +115,6 @@ Sep. 2017 - May 2021
 
 ## Skills
 
-**Experimental:** GC, MS, NMR, FTIR, UV-Vis, X-ray spectroscopy, SEM/EDS, spray coating, sputtering, CO2 reduction, chromatography, PCR, gel electrophoresis, Western blot, biomolecule extraction, cell culture, genetic engineering.
+**Experimental:** GC, MS, NMR, FTIR, UV-Vis, X-ray spectroscopy, SEM/EDS, spray coating, sputtering, CO<sub>2</sub> reduction, chromatography, PCR, gel electrophoresis, Western blot, biomolecule extraction, cell culture, genetic engineering.
 
 **Computational:** LabVIEW, Python, MATLAB, R, COMSOL, Simulink, ML-based optimization and automation, AutoCAD, life cycle assessment, techno-economic analysis, Aspen HYSYS.
