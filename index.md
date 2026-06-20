@@ -40,7 +40,7 @@ Jan. 2026 - Present
 Ph.D. Research Intern, New Jersey, USA  
 June 2025 - Aug. 2025
 
-- Designed and executed CO<sub>2</sub> electroreduction experiments under industrially relevant conditions above 300 mA cm^-2.
+- Designed and executed CO<sub>2</sub> electroreduction experiments under industrially relevant conditions above 300 mA cm<sup>-2</sup>.
 - Spray-coated composite electrodes using Au, Ni, Cu, Ag, and Co catalyst inks.
 - Screened catalyst compositions and operating conditions across temperature, pressure, flow rate, solvent, electrolyte, and ionomer variables.
 - Characterized electrode behavior through electrochemical impedance spectroscopy, gas chromatography, and SEM/EDS.
@@ -72,7 +72,7 @@ May 2022 - June 2022
 **Operando Cu K-edge XAFS of pulsed CO<sub>2</sub> electroreduction in a high-current MEA**
 
 - Conducted high-throughput in-situ synchrotron XAS fluorescence experiments to study catalyst oxidation state and coordination environment.
-- Fabricated an MEA cell compatible with operando X-ray measurements at current densities above 300 mA cm^-2 and C2+ selectivity above 50%.
+- Fabricated an MEA cell compatible with operando X-ray measurements at current densities above 300 mA cm<sup>-2</sup> and C<sub>2+</sub> selectivity above 50%.
 
 **Lignin engineering for the production of a multifunctional additive for plastics**
 
