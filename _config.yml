@@ -1,8 +1,10 @@
 title: Dania Orfali
 logo: "/images/dania_profile.jpeg"
 description: >
-  <a href="/pdf/dania-orfali-resume.pdf">CV</a> |
-  <a href="https://www.linkedin.com/in/dania-orfali-9567b2189/">LinkedIn</a> |
+  <a href="/pdf/dania-orfali-resume.pdf">CV</a>
+  <br>
+  <a href="https://www.linkedin.com/in/dania-orfali-9567b2189/">LinkedIn</a>
+  <br>
   <a href="https://scholar.google.com/citations?hl=en&user=p3Gw7EgAAAAJ">Google Scholar</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
