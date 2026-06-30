@@ -19,13 +19,13 @@ Available for internship: June 2027
 ## Publications
 
 **Pulsed Electrolysis Promotes Catalyst Activity in Dilute CO<sub>2</sub> Streams**  
-ACS Energy Letters, 2026
+[ACS Energy Letters](https://pubs.acs.org/doi/10.1021/acsenergylett.6c00854), 2026
 
 **Ranking economic and environmental performance of feedstocks used in bio-based production systems**  
-Current Research in Biotechnology, 2025 | Also a poster presentation at Metabolic Engineering Conference, 2024
+[Current Research in Biotechnology](https://www.sciencedirect.com/science/article/pii/S2590262825000048), 2025 | Also a poster presentation at Metabolic Engineering Conference, 2024
 
 **Reimagining Unit Operations Labs: NYU's Multi-Tiered Experiential Learning Platform**  
-AIChE Annual Meeting, 2025
+[AIChE Annual Meeting](https://proceedings.aiche.org/conferences/aiche-annual-meeting/2025/proceeding/paper/reimagining-unit-operations-labs), 2025
 
 ## Patent
 
