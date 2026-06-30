@@ -1,10 +1,20 @@
+Ph.D. student in Chemical and Biomolecular Engineering at New York University.
+
+Doctoral Fellow at Lawrence Berkeley National Laboratory.
+
+Advisor: [Miguel A. Modestino](http://www.miguelmodestino.com/)
+
+dania.alorfali [at] gmail.com
+
+Available for internship: June 2027
+
 ## Research Interests
 
-1. CO<sub>2</sub> reduction and pulsed electrochemistry
-2. Catalyst activity, selectivity, and degradation
-3. Operando X-ray spectroscopy and electrochemical characterization
-4. Bayesian optimization, active learning, and experimental automation
-5. Bio-based production systems, techno-economic analysis, and life cycle assessment
+1. Electrochemical systems and energy conversion
+2. Advanced operando characterization and electrochemical diagnostics
+3. Autonomous experimentation and laboratory automation
+4. Machine learning for scientific discovery
+5. Data-driven materials and catalyst development
 
 ## Publications
 
@@ -99,7 +109,7 @@ Purdue University, June 2022 - Jan. 2023
 **New York University**  
 Ph.D. in Chemical and Biomolecular Engineering, New York, USA  
 Sep. 2023 - Present  
-Advisor: Miguel A. Modestino
+Advisor: [Miguel A. Modestino](http://www.miguelmodestino.com/)
 
 **Technical University of Denmark, AgroParisTech, Tallinn University of Technology, and Universite de Reims Champagne-Ardenne**  
 M.S. in Biological and Chemical Engineering, Denmark, France, and Estonia  
@@ -112,6 +122,6 @@ Sep. 2017 - May 2021
 
 ## Skills
 
-**Experimental:** GC, MS, NMR, FTIR, UV-Vis, X-ray spectroscopy, SEM/EDS, spray coating, sputtering, CO<sub>2</sub> reduction, chromatography, PCR, gel electrophoresis, Western blot, RNA/DNA/lipids extraction, cell culture, genetic engineering.
+**Experimental:** GC, MS, NMR, FTIR, UV-Vis, X-ray spectroscopy, SEM/EDS, EIS, spray coating, sputtering, CO<sub>2</sub> reduction, chromatography, PCR, gel electrophoresis, Western blot, RNA/DNA/lipids extraction, cell culture, genetic engineering.
 
 **Computational:** LabVIEW, Python, MATLAB, R, COMSOL, Simulink, ML-based optimization and automation, AutoCAD, life cycle assessment, techno-economic analysis, Aspen HYSYS.

@@ -1,17 +1,9 @@
 title: Dania Orfali
 logo: "/images/dania_profile.jpeg"
 description: >
-  Ph.D. student in Chemical and Biomolecular Engineering at New York University.
-  <br><br>
-  Researching CO<sub>2</sub> electroreduction, pulsed electrochemistry, operando spectroscopy,
-  catalyst activity, Bayesian optimization, machine learning, and experimental automation.
-  <br><br>
-  dania.alorfali [at] gmail.com
-  <br>
-  Available for internship: June 2027
-  <br>
   <a href="/pdf/dania-orfali-resume.pdf">CV</a> |
-  <a href="https://www.linkedin.com/in/dania-orfali-9567b2189/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dania-orfali-9567b2189/">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?hl=en&user=p3Gw7EgAAAAJ">Google Scholar</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

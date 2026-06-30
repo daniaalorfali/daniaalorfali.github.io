@@ -55,8 +55,20 @@ footer {
   color: #6b7280;
 }
 
+@media print, screen and (min-width: 961px) {
+  section {
+    border-left: 1px solid #d0d7de;
+    padding-left: 32px;
+  }
+}
+
 @media print, screen and (max-width: 960px) {
   header {
     padding-right: 0;
+  }
+
+  section {
+    border-left: 0;
+    padding-left: 0;
   }
 }
