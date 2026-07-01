@@ -27,6 +27,7 @@ Available for internship: June 2027
 **Reimagining Unit Operations Labs: NYU's Multi-Tiered Experiential Learning Platform**  
 [AIChE Annual Meeting](https://proceedings.aiche.org/conferences/aiche-annual-meeting/2025/proceeding/paper/reimagining-unit-operations-labs), 2025
 
+
 ## Patent
 
 **Methods of Pulsed Electrolysis for Reduction of Carbon Dioxide from Mixed Gas Streams**  
